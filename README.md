@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To save a tweet from the search, drag the displayed tweets over from left list to the right list.  Once drop it will be persisted in localStorage until the clear storage button is pressed.
 
+## Styling
+
+Due to lack of time, the intention was to make the CSS look better with either emotion or glamorous to style each of the compoments and App separate to have finer control on the CSS styling.
+
+Instead the App is currently styled in App.css.
+
 ## Available Scripts
 
 In the project directory, you can run:
