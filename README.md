@@ -36,10 +36,10 @@ export ACCESS_TOKEN_SECRET="<your Twitter Application Access Token Secret>";
 or simply create an `.env` file containing the following information:
 
 ```
-TWITTER_API_KEY="<your Twitter api key>";
-TWITTER_API_SECRET="<your Twitter api secret>";
-ACCESS_TOKEN="<your Twitter Application Access Token>";
-ACCESS_TOKEN_SECRET="<your Twitter Application Access Token Secret>";
+TWITTER_API_KEY="<your Twitter api key>"
+TWITTER_API_SECRET="<your Twitter api secret>"
+ACCESS_TOKEN="<your Twitter Application Access Token>"
+ACCESS_TOKEN_SECRET="<your Twitter Application Access Token Secret>"
 ```
 
 
