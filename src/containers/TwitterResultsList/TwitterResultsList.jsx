@@ -9,6 +9,7 @@ export const TwitterResultsList = observer(({ tweets }) => (
       tweets={tweets.searchResultTweets}
       noItemsString="No Search Results"
       id="search-results"
+      loadingState={tweets.fetchState}
     />
   </div>
 ));

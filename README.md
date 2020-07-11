@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  This application is to demo how to query Twitter's search api and demostrating how a React application with MobX to manage saving tweets to localStorage.
 
+To save a tweet from the search, drag the displayed tweets over from left list to the right list.  Once drop it will be persisted in localStorage until the clear storage button is pressed.
+
 ## Available Scripts
 
 In the project directory, you can run:
